@@ -6,14 +6,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: GoLang is the best language
 
-<a href="https://github.com/aaryarajoju">GitHub Profile</a>
-<a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a>
-<a href="https://aaryarajoju.github.io">AARYA RAJOJU - Web</a>
-<a href="https://aaryarajoju.github.io/portfolio">AARYA RAJOJU - Portfolio</a>
-<a href="https://aaryarajoju.github.io/aaryarajoju">AARYA RAJOJU - Personal Website</a>
-<a href="https://aaryarajoju.github.io/python/">AARYA RAJOJU - Learn Python</a>
-<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a>
-<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a>
+<a href="https://github.com/aaryarajoju">GitHub Profile</a><br>
+<a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a><br>
+<a href="https://aaryarajoju.github.io">AARYA RAJOJU - Web</a><br>
+<a href="https://aaryarajoju.github.io/portfolio">AARYA RAJOJU - Portfolio</a><br>
+<a href="https://aaryarajoju.github.io/aaryarajoju">AARYA RAJOJU - Personal Website</a><br>
+<a href="https://aaryarajoju.github.io/python/">AARYA RAJOJU - Learn Python</a><br>
+<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
+<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 
 
 <!--
