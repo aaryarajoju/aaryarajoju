@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: a website for beginers to start learning python
+- 🌱 I’m currently learning: GoLang
+- 📫 How to reach me: <a href="mailto:code.aarya@gmail.com">code.aarya@gmail.com</a> or <a href="mailto:hey.aarya@gmail.com">hey.aarya@gmail.com</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: GoLang is the best language
+
+<a href="https://github.com/aaryarajoju">GitHub Profile</a>
+<a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a>
+<a href="https://aaryarajoju.github.io">AARYA RAJOJU - Web</a>
+<a href="https://aaryarajoju.github.io/portfolio">AARYA RAJOJU - Portfolio</a>
+<a href="https://aaryarajoju.github.io/aaryarajoju">AARYA RAJOJU - Personal Website</a>
+<a href="https://aaryarajoju.github.io/python/">AARYA RAJOJU - Learn Python</a>
+<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a>
+<a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a>
+
+
 <!--
 **aaryarajoju/aaryarajoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
