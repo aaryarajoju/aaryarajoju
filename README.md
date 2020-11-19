@@ -8,7 +8,7 @@
 
 <br>
 <br>
-
+<!--
 <a href="https://github.com/aaryarajoju">GitHub Profile</a><br>
 <a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a><br>
 <!--
@@ -19,7 +19,7 @@
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 -->
-
+-->
 <br>
 <br>
 
