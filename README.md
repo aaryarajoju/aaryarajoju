@@ -11,14 +11,14 @@
 <!--
 <a href="https://github.com/aaryarajoju">GitHub Profile</a><br>
 <a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a><br>
-<!--
+
 <a href="https://aaryarajoju.github.io">GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/portfolio">A personal Portfolio hosted on GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/aaryarajoju">A personal website hosted on GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/python/">A website to Learn Python</a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
--->
+
 -->
 <br>
 <br>
