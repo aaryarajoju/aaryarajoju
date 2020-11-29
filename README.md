@@ -2,13 +2,19 @@
 
 <br>
 <br>
+<br>
+<br>
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][blog]
+[<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
+[<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://simpleicons.org/icons/eyeem.svg" />][eyeem]
+
 
 <br>
 <br>
@@ -81,5 +87,8 @@ Here are some ideas to get you started:
 
 [website]: https://aaryarajoju.github.io/
 [twitter]: https://twitter.com/AaryaRajoju
+[blog]: https://aaryarajoju.wordpress.com/
 [instagram]: https://instagram.com/aaryarajoju
+[mail]: mailto:code.aarya@gmail.com
 [linkedin]: https://linkedin.com/in/aaryarajoju
+[eyeem]: https://www.eyeem.com/u/capturedbyarx
