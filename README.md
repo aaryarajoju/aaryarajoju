@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<br>
-<br>
-<br>
-<br>
+<img src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" />
+
 
 ### Connect with me:
 
@@ -16,10 +14,6 @@
 [<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
 [<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://simpleicons.org/icons/eyeem.svg" />][eyeem]
 
-
-
-
-<br>
 <br>
 
 ### Languages and Tools:
