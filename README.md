@@ -22,8 +22,13 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+<!--
+<img align="left" alt="JetBrains GoLand" width="26px" src="" />
 <img align="left" alt="JetBrains IntelliJ Idea" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />
+-->
+<img align="left" alt="JetBrains Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
+<img align="left" alt="JetBrains PyCharm" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+<br>
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -43,9 +48,7 @@
 
 
 <!--
-<img align="left" alt="" width="26px" src="" />
-<img align="left" alt="" width="26px" src="" />
-<img align="left" alt="" width="26px" src="" />
+
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="" width="26px" src="" />
 -->
