@@ -8,13 +8,13 @@
 ### Connect with me:
 
 [<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack]
 [<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][blog]
 [<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
 [<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://simpleicons.org/icons/eyeem.svg" />][eyeem]
-[<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack]
 
 
 
@@ -42,13 +42,13 @@
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Android" width="26px" src="https://simpleicons.org/icons/android.svg" />
+
+<!--
 <img align="left" alt="Canva" width="26px" src="https://simpleicons.org/icons/canva.svg" />
 <img align="left" alt="Lightroom" width="26px" src="https://simpleicons.org/icons/adobelightroomcc.svg" />
 <img align="left" alt="gimp" width="26px" src="https://simpleicons.org/icons/gimp.svg" />
 <img align="left" alt="inkscape" width="26px" src="https://simpleicons.org/icons/inkscape.svg" />
 <img align="left" alt="Ableton Live 10" width="26px" src="https://simpleicons.org/icons/abletonlive.svg" />
-
-<!--
 <img align="left" alt="inkscape" width="26px" src="https://simpleicons.org/icons/inkscape.svg" />
 <img align="left" alt="inkscape" width="26px" src="https://simpleicons.org/icons/inkscape.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -95,15 +95,14 @@
 <!--
 <a href="https://github.com/aaryarajoju">GitHub Profile</a><br>
 <a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a><br>
-
 <a href="https://aaryarajoju.github.io">GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/portfolio">A personal Portfolio hosted on GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/aaryarajoju">A personal website hosted on GitHub Pages</a><br>
 <a href="https://aaryarajoju.github.io/python/">A website to Learn Python</a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
-
 -->
+
 <br>
 <br>
 
