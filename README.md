@@ -42,6 +42,10 @@
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Android" width="26px" src="https://simpleicons.org/icons/android.svg" />
+<br>
+<br>
+
+---
 
 <!--
 <img align="left" alt="Canva" width="26px" src="https://simpleicons.org/icons/canva.svg" />
@@ -90,8 +94,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: GoLang is the best language
 -->
-<br>
-<br>
 <!--
 <a href="https://github.com/aaryarajoju">GitHub Profile</a><br>
 <a href="https://www.linkedin.com/in/aaryarajoju/">Linkedin Profile</a><br>
@@ -102,9 +104,6 @@
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 <a href="https://aaryarajoju.github.io/">AARYA RAJOJU - </a><br>
 -->
-
-<br>
-<br>
 
 <!--
 **aaryarajoju/aaryarajoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
