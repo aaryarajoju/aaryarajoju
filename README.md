@@ -35,7 +35,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
-<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
 <img align="left" alt="JetBrains Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
