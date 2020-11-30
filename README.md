@@ -8,7 +8,7 @@
 [<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]-->
 [<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack]
 [<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][blog]
 [<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
