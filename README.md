@@ -16,7 +16,7 @@
 
 <br>
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="Go" width="32px" src="https://simpleicons.org/icons/go.svg" />
 <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />
@@ -26,13 +26,19 @@
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+
+<br>
+<br>
+
+### Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
 <img align="left" alt="JetBrains Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="JetBrains PyCharm" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Android" width="26px" src="https://simpleicons.org/icons/android.svg" />
