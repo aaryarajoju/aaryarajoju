@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### Languages:
+### Programming Languages:
 
 <img align="left" alt="Go" width="32px" src="https://simpleicons.org/icons/go.svg" />
 <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />
