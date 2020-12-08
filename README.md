@@ -3,22 +3,23 @@
 <p align="center"> <img width="500px" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" /> </p>
 
 <!--
-### Connect with me:
-
+### Connect with me:-->
+<!--
 [<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]-->
+[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack]
 [<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][blog]
 [<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
 [<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://simpleicons.org/icons/eyeem.svg" />][eyeem]
-
+<!--
 <br>
 <br>
-
-### Programming Languages:
-
+-->
+<!--
+### Programming Languages:-->
+<!--
 <img align="left" alt="Go" width="32px" src="https://simpleicons.org/icons/go.svg" />
 <img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
@@ -29,12 +30,13 @@
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
-
+<!--
 <br>
 <br>
-
-### Tools:
-
+-->
+<!--
+### Tools:-->
+<!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
 <img align="left" alt="JetBrains Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
