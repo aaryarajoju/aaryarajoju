@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="500px" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" /> </p>
 
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -46,6 +46,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <br>
+-->
 
 ---
 
