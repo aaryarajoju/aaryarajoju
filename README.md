@@ -5,13 +5,13 @@
 
 ### Connect with me:
 [<img align="left" alt="aaryarajoju.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack]
-[<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][blog]
-[<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
-[<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://simpleicons.org/icons/eyeem.svg" />][eyeem]
+[<img align="left" alt="AARYA RAJOJU | Twitter" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/twitter.svg" />][twitter]
+[<img align="left" alt="AARYA RAJOJU | LinkedIn" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="AARYA RAJOJU | Instagram" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/instagram.svg" />][instagram]
+[<img align="left" alt="AARYA RAJOJU | Stack Overflow" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/stackoverflow.svg" />][stack]
+[<img align="left" alt="AARYA RAJOJU | Blog" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/wordpress.svg" />][blog]
+[<img align="left" alt="AARYA RAJOJU | Mail" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/gmail.svg" />][mail]
+[<img align="left" alt="AARYA RAJOJU | EyeEm" width="22px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/eyeem.svg" />][eyeem]
 
 <br>
 <br>
@@ -19,16 +19,16 @@
 
 ### Programming Languages:
 
-<img align="left" alt="Go" width="32px" src="https://github.com/aaryarajoju/logos-svg/blob/main/go.svg" />
-<img align="left" alt="python" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/python.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/c.svg" />
-<img align="left" alt="C++" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/cplusplus.svg" />
-<img align="left" alt="C#" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/csharp.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/java.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/kotlin.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/css3.svg" />
+<img align="left" alt="Go" width="32px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/go.svg" />
+<img align="left" alt="python" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/python.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/c.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/cplusplus.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/csharp.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/java.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/kotlin.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/javascript.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/css3.svg" />
 
 <br>
 <br>
@@ -36,14 +36,14 @@
 
 ### Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
-<img align="left" alt="JetBrains Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="JetBrains PyCharm" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Android" width="26px" src="https://simpleicons.org/icons/android.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudio.svg" />
+<img align="left" alt="JetBrains Android Studio" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/androidstudio.svg" />
+<img align="left" alt="JetBrains PyCharm" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/pycharm.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/node-dot-js.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/github.svg" />
+<img align="left" alt="Android" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/android.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <br>
