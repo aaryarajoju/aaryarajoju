@@ -19,16 +19,16 @@
 
 ### Programming Languages:
 
-<img align="left" alt="Go" width="32px" src="https://simpleicons.org/icons/go.svg" />
-<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
-<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="Go" width="32px" src="https://github.com/aaryarajoju/logos-svg/blob/main/go.svg" />
+<img align="left" alt="python" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/python.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/c.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/cplusplus.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/csharp.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/java.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/kotlin.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/javascript.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/aaryarajoju/logos-svg/blob/main/css3.svg" />
 
 <br>
 <br>
