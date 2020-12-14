@@ -17,7 +17,7 @@
 <br>
 
 
-### Programming Languages:
+### Programming Languages I work with:
 
 <img align="left" alt="Go" width="32px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/go.svg" />
 <img align="left" alt="python" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/python.svg" />
@@ -34,7 +34,7 @@
 <br>
 
 
-### Tools:
+### Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudio.svg" />
