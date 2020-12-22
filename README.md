@@ -24,8 +24,8 @@
 <img align="left" alt="C" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/cplusplus.svg" />
 <img align="left" alt="C#" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/csharp.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/java.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/kotlin.svg" />
+<!--<img align="left" alt="Java" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/java.svg" />-->
+<!--<img align="left" alt="Kotlin" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/kotlin.svg" />-->
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/css3.svg" />
