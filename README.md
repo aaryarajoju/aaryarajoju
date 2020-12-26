@@ -36,7 +36,6 @@
 
 ### Tools I use:
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/aaryarajoju/all-tools) <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/visualstudio.svg" />
 <img align="left" alt="JetBrains Android Studio" width="26px" src="https://github.com/aaryarajoju/aaryarajoju/blob/main/logo-svg/androidstudio.svg" />
@@ -48,6 +47,8 @@
 <!--<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
 <br>
 <br>
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/aaryarajoju/all-tools)
 
 
 ---
