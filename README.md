@@ -26,7 +26,8 @@
 <img align="left" alt="C#" width="26px" src="./logos/csharp.svg" />
 <!--<img align="left" alt="Java" width="26px" src="./logos/java.svg" />-->
 <!--<img align="left" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />-->
-<img align="left" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
+<img align="left" alt="JavaScript" width="26px" src="./logos/typescript.svg" />
+<img align="left" alt="TypeScript" width="26px" src="./logos/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="./logos/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="./logos/css3.svg" />
 
