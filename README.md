@@ -43,6 +43,7 @@
 <img align="left" alt="JetBrains Android Studio" width="26px" src="./logos/androidstudio.svg" />
 <img align="left" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
 <img align="left" alt="Node.js" width="26px" src="./logos/node-dot-js.svg" />
+<img align="left" alt="Discord" width="26px" src="./logos/discord.svg" />
 <img align="left" alt="Git" width="26px" src="./logos/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="./logos/github.svg" />
 <img align="left" alt="Android" width="26px" src="./logos/android.svg" />
