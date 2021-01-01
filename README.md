@@ -56,6 +56,12 @@
 
 ---
 
+### Stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="AARYA RAJOJU's github stats"/></a>
+<a href="https://github.com/anuraghazra/convoychat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&theme=buefy" alt="AARYA RAJOJU's top languages"/></a><br>
+
+---
 
 <!--
 <img align="left" alt="" width="26px" src="" />
