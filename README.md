@@ -24,7 +24,7 @@
 <img align="left" alt="C" width="26px" src="./logos/c.svg" />
 <img align="left" alt="C++" width="26px" src="./logos/cplusplus.svg" />
 <img align="left" alt="C#" width="26px" src="./logos/csharp.svg" />
-<!--<img align="left" alt="Java" width="26px" src="./logos/java.svg" />-->
+<img align="left" alt="Java" width="26px" src="./logos/java.svg" />
 <!--<img align="left" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />-->
 <img align="left" alt="JavaScript" width="26px" src="./logos/typescript.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./logos/javascript.svg" />
@@ -58,8 +58,12 @@
 
 ### Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="AARYA RAJOJU's github stats"/></a>
-<a href="https://github.com/anuraghazra/convoychat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&theme=buefy" alt="AARYA RAJOJU's top languages"/></a><br>
+<!--Credits for the stats: 
+https://github.com/anuraghazra/github-readme-stats
+-->
+
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical"/>
+
 
 ---
 
