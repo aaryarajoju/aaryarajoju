@@ -25,7 +25,7 @@
 <img align="left" alt="C++" width="26px" src="./logos/cplusplus.svg" />
 <img align="left" alt="C#" width="26px" src="./logos/csharp.svg" />
 <img align="left" alt="Java" width="26px" src="./logos/java.svg" />
-<!--<img align="left" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />-->
+<img align="left" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./logos/typescript.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./logos/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="./logos/html5.svg" />
@@ -62,7 +62,7 @@
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical" lt="AARYA RAJOJU's most used languages" />
 
 
 ---
