@@ -46,10 +46,10 @@
 <img align="left" alt="GitHub" width="26px" src="./logos/github.svg" />
 <img align="left" alt="Android" width="26px" src="./logos/android.svg" />
 <!--<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
-<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" alt="AARYA RAJOJU - StackShare" src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" /><a/>
+<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" alt="AARYA RAJOJU - StackShare" src="./logos/techstack.svg" /><a/>
 
-
-<!--[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/aaryarajoju/all-tools)-->
+<br>
+<br>
 
 ---
 
