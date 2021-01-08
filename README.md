@@ -28,8 +28,8 @@ Programming Languages i work with: <br>
 <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/typescript.svg" />
 <img align="left" title="TypeScript" alt="TypeScript" width="26px" src="./logos/javascript.svg" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+<!--<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />-->
   
 <br>
 <br>
