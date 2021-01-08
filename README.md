@@ -34,7 +34,8 @@ Programming Languages I work with: <br>
 <br>
 <br>
   
-<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" title="StackShare - AARYA RAJOJU" alt="StackShare" src="./logos/techstack.svg" /><a/>Tools I use:<br>
+<!--<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" title="StackShare - AARYA RAJOJU" alt="StackShare" src="./logos/techstack.svg" /><a/>-->
+Tools I use: <br>
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
 <img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="./logos/visualstudio.svg" />
@@ -74,15 +75,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-[website]: https://aaryarajoju.github.io/
-[twitter]: https://twitter.com/AaryaRajoju/
-[blog]: https://aaryarajoju.wordpress.com/
-[instagram]: https://instagram.com/aaryarajoju/
-[mail]: mailto:code.aarya@gmail.com
-[linkedin]: https://linkedin.com/in/aaryarajoju/
-[eyeem]: https://www.eyeem.com/u/capturedbyarx/
-[stack]: https://stackoverflow.com/users/14383957/aaryarajoju/
 -->
