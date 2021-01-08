@@ -1,6 +1,6 @@
 ### Hi there!! <!--👋-->
 
-<img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="350" src="./logos/animation.gif" />
+<img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation.gif" />
 
 <h3>
 Connect with me: <br>
@@ -14,7 +14,6 @@ Connect with me: <br>
 <a href="mailto:code.aarya@gmail.com"><img align="left" title="Mail - AARYA RAJOJU" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 <a href="https://www.eyeem.com/u/capturedbyarx/"><img align="left" title="EyeEm - AARYA RAJOJU" alt="EyeEm" width="22px" src="./logos/eyeem.svg" /></a>
 
-<br>
 <br>
   
 Programming Languages i work with: <br>
@@ -32,7 +31,6 @@ Programming Languages i work with: <br>
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
   
 <br>
-<br>
   
 Tools I use: <br>
 
@@ -48,6 +46,8 @@ Tools I use: <br>
 <a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" title="StackShare - AARYA RAJOJU" alt="StackShare" src="./logos/techstack.svg" /><a/>
 </h3>
 
+<br>
+<br>
 
 ---
 
