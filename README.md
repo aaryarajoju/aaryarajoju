@@ -22,7 +22,7 @@ Programming Languages I work with: <br>
 <img align="left" title="Go" alt="Go" width="32px" src="./logos/go.svg" />
 <img align="left" title="python" alt="python" width="26px" src="./logos/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
+<!--<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />-->
 <img align="left" title="C#" alt="C#" width="26px" src="./logos/csharp.svg" />
 <img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
 <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />
