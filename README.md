@@ -60,7 +60,7 @@ Tools I use: <br>
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical" lt="AARYA RAJOJU's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" lt="AARYA RAJOJU's most used languages" />
 
 ---
 
