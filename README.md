@@ -1,6 +1,6 @@
 ### Hi there!! <!--👋-->
 
-<img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation.gif" />
+<img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent.gif" />
 
 <h3>
 Connect with me: <br>
