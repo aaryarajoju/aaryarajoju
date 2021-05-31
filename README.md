@@ -22,20 +22,20 @@ Programming Languages I work with: <br>
 <img align="left" title="Go" alt="Go" width="32px" src="./logos/go.svg" />
 <img align="left" title="python" alt="python" width="26px" src="./logos/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<!--<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />-->
-<img align="left" title="C#" alt="C#" width="26px" src="./logos/csharp.svg" />
-<img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
-<img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
+<!-- <img align="left" title="C#" alt="C#" width="26px" src="./logos/csharp.svg" /> -->
+<!-- <img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" /> -->
+<!-- <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos/kotlin.svg" /> -->
 <!--<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="./logos/typescript.svg" />-->
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
-<!--<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />-->
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
   
 <br>
 <br>
   
 <!--<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" title="StackShare - AARYA RAJOJU" alt="StackShare" src="./logos/techstack.svg" /><a/>-->
-Tools I use: <br>
+Technologies/Tools I use: <br>
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
 <img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="./logos/visualstudio.svg" />
