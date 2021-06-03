@@ -54,8 +54,6 @@ Technologies/Tools I use: <br>
 
 ---
 
-### Stats:
-
 <!--Credits for the stats: 
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/DenverCoder1/github-readme-streak-stats
