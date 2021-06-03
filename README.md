@@ -1,7 +1,16 @@
-<h3 align="centre"> 
+<!--Credits: 
+readme stats: https://github.com/anuraghazra/github-readme-stats
+readme streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
+readme activity graph: https://github.com/ashutosh00710/github-readme-activity-graph
+readme typing animation: https://github.com/DenverCoder1/readme-typing-svg
+-->
+
+<!-- <h3 align="centre"> 
   Hi There!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h3> -->
+
+<img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!;👋+Ciao+Mondo!;👋+Hola+Mundo!;👋+Hallo+Welt!" alt="HelloWorld!" />
 
 <img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
 
@@ -57,14 +66,8 @@ Technologies/Tools I use: <br>
 
 ---
 
-<!--Credits for the stats: 
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/DenverCoder1/github-readme-streak-stats
-https://github.com/ashutosh00710/github-readme-activity-graph
--->
-
 <h3 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" alt="AARYA RAJOJU's most used languages" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryarajoju&theme=radical" alt="AARYA RAJOJU's Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" alt="AARYA RAJOJU's most used languages" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryarajoju&theme=radical" alt="AARYA RAJOJU's Streak" />
 </h3>
 
 ---
