@@ -1,18 +1,18 @@
-### Hi there!! <!--👋-->
+### Hi there!!! 👽
 
 <img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
 
 <h3>
 Connect with me: <br>
   
-<a href="https://aaryarajoju.github.io/"><img align="left" title="aaryarajoju.github.io" alt="aaryarajoju.github.io" width="22px" src="./logos/web_globe.svg" /></a>
-<a href="https://twitter.com/AaryaRajoju/"><img align="left" title="Twitter - AARYA RAJOJU" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
-<a href="https://linkedin.com/in/aaryarajoju/"><img align="left" title="LinkedIn - AARYA RAJOJU" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
-<a href="https://instagram.com/aaryarajoju/"><img align="left" title="Instagram - AARYA RAJOJU" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
-<a href="https://stackoverflow.com/users/14383957/aaryarajoju/"><img align="left" title="Stack Overflow - AARYA RAJOJU" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" /></a>
-<a href="https://aaryarajoju.wordpress.com/"><img align="left" title="Blog - AARYA RAJOJU" alt="Blog" width="22px" src="./logos/wordpress.svg" /></a>
-<a href="mailto:code.aarya@gmail.com"><img align="left" title="Mail - AARYA RAJOJU" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
-<a href="https://www.eyeem.com/u/capturedbyarx/"><img align="left" title="EyeEm - AARYA RAJOJU" alt="EyeEm" width="22px" src="./logos/eyeem.svg" /></a>
+<a target="_blank" href="https://aaryarajoju.github.io/portfolio/"><img align="left" title="aaryarajoju.github.io" alt="aaryarajoju.github.io" width="22px" src="./logos/web_globe.svg" /></a>
+<a target="_blank" href="https://twitter.com/AaryaRajoju/"><img align="left" title="Twitter - AARYA RAJOJU" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
+<a target="_blank" href="https://linkedin.com/in/aaryarajoju/"><img align="left" title="LinkedIn - AARYA RAJOJU" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
+<a target="_blank" href="https://instagram.com/aaryarajoju/"><img align="left" title="Instagram - AARYA RAJOJU" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/14383957/aaryarajoju/"><img align="left" title="Stack Overflow - AARYA RAJOJU" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" /></a>
+<a target="_blank" href="https://aaryarajoju.wordpress.com/photography/"><img align="left" title="Blog - AARYA RAJOJU" alt="Blog" width="22px" src="./logos/wordpress.svg" /></a>
+<a target="_blank" href="mailto:code.aarya@gmail.com"><img align="left" title="Mail - AARYA RAJOJU" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
+<a target="_blank" href="https://www.eyeem.com/u/capturedbyarx/"><img align="left" title="EyeEm - AARYA RAJOJU" alt="EyeEm" width="22px" src="./logos/eyeem.svg" /></a>
 
 <br>
 <br>
@@ -58,9 +58,12 @@ Technologies/Tools I use: <br>
 
 <!--Credits for the stats: 
 https://github.com/anuraghazra/github-readme-stats
+https://github.com/DenverCoder1/github-readme-streak-stats
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" lt="AARYA RAJOJU's most used languages" />
+<h3 align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" alt="AARYA RAJOJU's most used languages" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryarajoju&theme=radical" alt="AARYA RAJOJU's Streak" />
+</h3>
 
 ---
 
