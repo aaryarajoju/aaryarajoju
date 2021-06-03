@@ -1,4 +1,7 @@
-### Hi there!!! 👽
+<h3 align="centre"> 
+  Hi There!!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
 
@@ -57,6 +60,7 @@ Technologies/Tools I use: <br>
 <!--Credits for the stats: 
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/ashutosh00710/github-readme-activity-graph
 -->
 
 <h3 align="center">
@@ -64,6 +68,12 @@ https://github.com/DenverCoder1/github-readme-streak-stats
 </h3>
 
 ---
+
+<img src="https://activity-graph.herokuapp.com/graph?username=aaryarajoju&area=true&theme=redical" alt="AARYA RAJOJU's contribution graph" />
+
+---
+
+<!-- <b>Note:</b> All the stats are of my public code and they don't reflect experience or skill level. -->
 
 
 <!--
