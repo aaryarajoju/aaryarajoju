@@ -10,7 +10,7 @@ readme typing animation: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!;👋+Ciao+Mondo!;👋+Hola+Mundo!;👋+Hallo+Welt!" alt="HelloWorld!" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!;👋+Ciao+Mondo!;👋+Hola+Mundo!;👋+Hallo+Welt!)](https://aaryarajoju.github.io/portfolio/)
 
 <img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
 
