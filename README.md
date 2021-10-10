@@ -67,7 +67,7 @@ Technologies/Tools I use: <br>
 ---
 
 <h3 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html" alt="AARYA RAJOJU's most used languages" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryarajoju&theme=radical" alt="AARYA RAJOJU's Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryarajoju&layout=compact&langs_count=10&theme=radical&hide=css,html,scss" alt="AARYA RAJOJU's most used languages" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryarajoju&theme=radical" alt="AARYA RAJOJU's Streak" />
 </h3>
 
 ---
