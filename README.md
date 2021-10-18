@@ -80,16 +80,25 @@ Technologies/Tools I use: <br>
 ---
 
 <p align="center"> 
+  <a target="_blank" href="https://github.com/aaryarajoju/totally-not-youtube"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=totally-not-youtube" alt="AaryaRajoju - totally-Not-youtube" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/ToDo-Manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=ToDo-Manager" alt="" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/AR50"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR50" alt="" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/8-Puzzle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=8-Puzzle" alt="AaryaRajoju - 8-Puzzle" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=portfolio" alt="AaryaRajoju - portfolio" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/AR-VSCode-Theme"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR-VSCode-Theme" alt="AaryaRajoju - AR-VSCode-Theme" /> </a> 
+  
+<!--
   <a target="_blank" href="https://github.com/aaryarajoju/totally-not-youtube"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=totally-not-youtube" alt="AaryaRajoju - totally-Not-youtube" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/ToDo-Manager"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=ToDo-Manager" alt="" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/AR50"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR50" alt="" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/8-Puzzle"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=8-Puzzle" alt="AaryaRajoju - 8-Puzzle" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/portfolio"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=portfolio" alt="AaryaRajoju - portfolio" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/AR-VSCode-Theme"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR-VSCode-Theme" alt="AaryaRajoju - AR-VSCode-Theme" /> </a> 
+-->
 <!--   
-  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a>
-  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a>
-  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a> 
+  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=" alt="AaryaRajoju - " /> </a> 
 -->
 </p>
 
