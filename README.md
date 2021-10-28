@@ -11,7 +11,12 @@ readme stats (small repo cards) : https://github.com/DenverCoder1/github-readme-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> -->
 
-[![Hello Wrold!](https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!)](https://aaryarajoju.github.io/portfolio/)
+<!-- [![Hello Wrold!](https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!)](https://aaryarajoju.github.io/portfolio/) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!" alt="Hello Wrold!" /> 
+<!--   <img src="https://raw.githubusercontent.com/aaryarajoju/aaryarajoju/main/AARYA%20RAJOJU%20-%20banner.png" alt="AARYA RAJOJU" />  -->
+</p>
 
 <img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
 
