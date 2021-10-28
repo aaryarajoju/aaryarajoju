@@ -36,14 +36,14 @@ Programming Languages I work with: <br>
 <img align="left" title="python" alt="python" width="26px" src="./logos-pink/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos-pink/c.svg" />
 <img align="left" title="C++" alt="C++" width="26px" src="./logos-pink/cplusplus.svg" />
-<img align="left" title="C#" alt="C#" width="26px" src="./logos-pink/csharp.svg" />
+<!-- <img align="left" title="C#" alt="C#" width="26px" src="./logos-pink/csharp.svg" /> -->
 <img align="left" title="Java" alt="Java" width="26px" src="./logos-pink/java.svg" />
 <!-- <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos-pink/kotlin.svg" /> -->
 <!--<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="./logos-pink/typescript.svg" />-->
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos-pink/javascript.svg" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos-pink/html5.svg" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos-pink/css3.svg" />
-  
+<!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos-pink/html5.svg" /> -->
+<!-- <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos-pink/css3.svg" /> -->
+
 <br>
 <br>
   
@@ -51,14 +51,15 @@ Programming Languages I work with: <br>
 Technologies/Tools I use: <br>
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos-pink/visualstudiocode.svg" />
-<img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="./logos-pink/visualstudio.svg" />
-<img align="left" title="JetBrains Android Studio" alt="JetBrains Android Studio" width="26px" src="./logos-pink/androidstudio.svg" />
-<img align="left" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos-pink/pycharm.svg" />
+<!-- <img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="./logos-pink/visualstudio.svg" /> -->
+<!-- <img align="left" title="JetBrains Android Studio" alt="JetBrains Android Studio" width="26px" src="./logos-pink/androidstudio.svg" /> -->
+<!-- <img align="left" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos-pink/pycharm.svg" /> -->
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="./logos-pink/node-dot-js.svg" />
 <img align="left" title="Discord" alt="Discord" width="26px" src="./logos-pink/discord.svg" />
 <img align="left" title="Git" alt="Git" width="26px" src="./logos-pink/git.svg" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos-pink/github.svg" />
-<img align="left" title="Android" alt="Android" width="26px" src="./logos-pink/android.svg" />
+<!-- <img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos-pink/github.svg" /> -->
+<!-- <img align="left" title="Android" alt="Android" width="26px" src="./logos-pink/android.svg" /> -->
+
 </h3>
 
 <br>
