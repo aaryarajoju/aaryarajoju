@@ -90,7 +90,7 @@ Technologies/Tools I use: <br>
   <a target="_blank" href="https://github.com/aaryarajoju/ToDo-Manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=ToDo-Manager" alt="" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/AR50"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR50" alt="" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/8-Puzzle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=8-Puzzle" alt="AaryaRajoju - 8-Puzzle" /> </a>
-  <a target="_blank" href="https://github.com/aaryarajoju/portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=portfolio" alt="AaryaRajoju - portfolio" /> </a>
+  <a target="_blank" href="https://github.com/aaryarajoju/portfolio-old"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=portfolio-old" alt="AaryaRajoju - portfolio" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/AR-VSCode-Theme"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR-VSCode-Theme" alt="AaryaRajoju - AR-VSCode-Theme" /> </a> 
   
 <!--
