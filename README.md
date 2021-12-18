@@ -112,6 +112,7 @@ Technologies/Tools I use: <br>
 
 <!-- <b>Note:</b> All the stats are of my public code and they don't reflect experience or skill level. -->
 
+![](https://hit.yhype.me/github/profile?user_id=30365637)
 
 <!--
 Here are some ideas to get you started:
