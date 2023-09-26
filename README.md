@@ -14,7 +14,7 @@ readme stats (small repo cards) : https://github.com/DenverCoder1/github-readme-
 <!-- [![Hello Wrold!](https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!)](https://aaryarajoju.github.io/portfolio/) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!;👋+Bonjour+le+Monde!" alt="Hello Wrold!" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&color=fe428e&lines=👋+Hello+World!" alt="Hello Wrold!" /> 
 <!--   <img src="https://raw.githubusercontent.com/aaryarajoju/aaryarajoju/main/AARYA%20RAJOJU%20-%20banner.png" alt="AARYA RAJOJU" />  -->
 </p>
 
@@ -85,6 +85,7 @@ Technologies/Tools I use: <br>
 
 ---
 
+<!--
 <p align="center"> 
   <a target="_blank" href="https://github.com/aaryarajoju/totally-not-youtube"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=totally-not-youtube" alt="AaryaRajoju - totally-Not-youtube" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/ToDo-Manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=ToDo-Manager" alt="" /> </a>
@@ -92,6 +93,7 @@ Technologies/Tools I use: <br>
   <a target="_blank" href="https://github.com/aaryarajoju/8-Puzzle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=8-Puzzle" alt="AaryaRajoju - 8-Puzzle" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/portfolio-old"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=portfolio-old" alt="AaryaRajoju - portfolio" /> </a>
   <a target="_blank" href="https://github.com/aaryarajoju/AR-VSCode-Theme"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=AR-VSCode-Theme" alt="AaryaRajoju - AR-VSCode-Theme" /> </a> 
+-->
   
 <!--
   <a target="_blank" href="https://github.com/aaryarajoju/totally-not-youtube"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aaryarajoju&theme=radical&repo=totally-not-youtube" alt="AaryaRajoju - totally-Not-youtube" /> </a>
