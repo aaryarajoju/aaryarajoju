@@ -18,60 +18,15 @@ readme stats (small repo cards) : https://github.com/DenverCoder1/github-readme-
 <!--   <img src="https://raw.githubusercontent.com/aaryarajoju/aaryarajoju/main/AARYA%20RAJOJU%20-%20banner.png" alt="AARYA RAJOJU" />  -->
 </p>
 
-<img align="left" title="AARYA RAJOJU" alt="AARYA RAJOJU" width="400" src="./logos/animation-transparent-2.gif" />
-
-<h3>
-Connect with me: <br>
-  
-<a target="_blank" href="https://aaryarajoju.github.io/portfolio/"><img align="left" title="aaryarajoju.github.io" alt="aaryarajoju.github.io" width="22px" src="./logos-pink/web_globe.svg" /></a>
-<a target="_blank" href="https://twitter.com/AaryaRajoju/"><img align="left" title="Twitter - AARYA RAJOJU" alt="Twitter" width="22px" src="./logos-pink/twitter.svg" /></a>
-<a target="_blank" href="https://linkedin.com/in/aaryarajoju/"><img align="left" title="LinkedIn - AARYA RAJOJU" alt="LinkedIn" width="22px" src="./logos-pink/linkedin.svg" /></a>
-<a target="_blank" href="https://instagram.com/aaryarajoju/"><img align="left" title="Instagram - AARYA RAJOJU" alt="Instagram" width="22px" src="./logos-pink/instagram.svg" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/14383957/aaryarajoju/"><img align="left" title="Stack Overflow - AARYA RAJOJU" alt="Stack Overflow" width="22px" src="./logos-pink/stackoverflow.svg" /></a>
-<a target="_blank" href="https://aaryarajoju.wordpress.com/photography/"><img align="left" title="Blog - AARYA RAJOJU" alt="Blog" width="22px" src="./logos-pink/wordpress.svg" /></a>
-<a target="_blank" href="mailto:code.aarya@gmail.com"><img align="left" title="Mail - AARYA RAJOJU" alt="Mail" width="22px" src="./logos-pink/gmail.svg" /></a>
-<a target="_blank" href="https://www.eyeem.com/u/capturedbyarx/"><img align="left" title="EyeEm - AARYA RAJOJU" alt="EyeEm" width="22px" src="./logos-pink/eyeem.svg" /></a>
-
+<p align="center">
+<img title="AARYA RAJOJU" alt="AARYA RAJOJU" height="200" src="./logos/animation-transparent-2.gif" />
 <br>
-<br>
-  
-Programming Languages I work with: <br>
-
-<img align="left" title="Go" alt="Go" width="32px" src="./logos-pink/go.svg" />
-<img align="left" title="python" alt="python" width="26px" src="./logos-pink/python.svg" />
-<img align="left" title="C" alt="C" width="26px" src="./logos-pink/c.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="./logos-pink/cplusplus.svg" />
-<!-- <img align="left" title="C#" alt="C#" width="26px" src="./logos-pink/csharp.svg" /> -->
-<img align="left" title="Java" alt="Java" width="26px" src="./logos-pink/java.svg" />
-<!-- <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos-pink/kotlin.svg" /> -->
-<!--<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="./logos-pink/typescript.svg" />-->
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos-pink/javascript.svg" />
-<!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos-pink/html5.svg" /> -->
-<!-- <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos-pink/css3.svg" /> -->
-
-<br>
-<br>
-  
-<!--<a href="https://stackshare.io/aaryarajoju/all-tools"><img align="left" title="StackShare - AARYA RAJOJU" alt="StackShare" src="./logos/techstack.svg" /><a/>-->
-Technologies/Tools I use: <br>
-
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos-pink/visualstudiocode.svg" />
-<!-- <img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="./logos-pink/visualstudio.svg" /> -->
-<!-- <img align="left" title="JetBrains Android Studio" alt="JetBrains Android Studio" width="26px" src="./logos-pink/androidstudio.svg" /> -->
-<!-- <img align="left" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos-pink/pycharm.svg" /> -->
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="./logos-pink/node-dot-js.svg" />
-<img align="left" title="Discord" alt="Discord" width="26px" src="./logos-pink/discord.svg" />
-<img align="left" title="Git" alt="Git" width="26px" src="./logos-pink/git.svg" />
-<!-- <img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos-pink/github.svg" /> -->
-<!-- <img align="left" title="Android" alt="Android" width="26px" src="./logos-pink/android.svg" /> -->
-
-</h3>
-
-<br>
-<br>
-<br>
+</p>
 
 ---
+ 
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryarajoju&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="AARYA RAJOJU's github stats" /> 
