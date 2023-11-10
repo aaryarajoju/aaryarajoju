@@ -36,7 +36,9 @@ readme stats (small repo cards) : https://github.com/DenverCoder1/github-readme-
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryarajoju&area=true&theme=redical" alt="AARYA RAJOJU's contribution graph" />
+<p align="center">
+<img width="750px" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryarajoju&area=true&theme=redical" alt="AARYA RAJOJU's contribution graph" />
+</p>
 
 ---
 
